@@ -1,0 +1,43 @@
+# main links
+main:
+#  - title: "Slow Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#    description:  "it describes stuff"
+  - title: "About"
+    url: /about
+    description: "Let's answer your questions."
+#  - title: "Fooy"
+#    url: /bar/baz
+#  - title: "More Foo"
+#    url: /more/foo
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  #
+clickybits:
+  - title: Browse by Meal
+    children: 
+      - title: Brunch
+        url:  /tags/brunch
+      - title:  "Kaffee und Kuchen"
+        url: /tags/cafe
+      - title: Lunch
+        url:  /tags/lunch
+      - title: Dinner
+        url: /tags/dinner
+  - title: Browse by Cuisine
+    children:
+      - title: Bavarian
+        url: /tags/bavarian
+      - title: Italian
+        url: /tags/italian
+      - title: South Asian
+        url: /tags/south-asian
+      - title: East Asian
+        url: /tags/east-asian
+      - title: Turkish
+        url: /tags/turkish
+        
