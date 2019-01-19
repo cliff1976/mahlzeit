@@ -1,5 +1,5 @@
 ---
-title: brunch
+title: Brunch
 layout: tag
 permalink: /tags/brunch/
 taxonomy: brunch
