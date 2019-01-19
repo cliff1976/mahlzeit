@@ -2,7 +2,7 @@
 layout: single
 title:  "Buddies Burger Bar"
 date: 2019-01-01
-tags: burgers altstadt
+tags: burgers altstadt dinner
 excerpt: Kinda crowded and loud, but the best burgers in Regensburg.
 ---
 
