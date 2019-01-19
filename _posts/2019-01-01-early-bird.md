@@ -1,9 +1,9 @@
 ---
 layout: single
 title:  "Early Bird"
-# date: 2019-01-14 03:00
+date: 2019-01-01 
 categories: cafe
-tags: roast stadtamhof
+tags: stadtamhof brunch
 # sidebar:
 #  nav: clickybits
 excerpt:  It's fancier than you think.  
@@ -25,7 +25,7 @@ Go early -- "late lunch" as as late as they go.
 Their sandwiches -- after 13:00 are a treat.  Try the Early Bird Sandwich:  bacon, an egg, and herbed cream cheese on homemade bread.
 
 ## Reservations? ##
-Not sure they take 'em, to be honest.
+Not sure they take 'em, to be honest.  Frequently the larger long-bench tables end up shared between unrelated parties because they don't have enough space for all the 2- or 3-top tables they really need.
 
 ## Parking ##
 Try Am Protzenweiher, or Dultplatz if necessary and the season permits it.
