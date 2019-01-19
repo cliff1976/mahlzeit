@@ -3,7 +3,7 @@ layout: single
 title:  "Early Bird"
 date: 2019-01-01 
 categories: cafe
-tags: stadtamhof brunch
+tags: stadtamhof brunch cafe
 # sidebar:
 #  nav: clickybits
 excerpt:  It's fancier than you think.  
