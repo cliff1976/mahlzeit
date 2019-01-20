@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "This is the template for a post"
-# date: 2019-01-14 03:00
+date: 2019-01-01
 categories: cafe
 tags: roast altstadt
 excerpt: 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Roter Hahn"
-date: 
+
 tags: brunch dinner altstadt
 excerpt: 
 ---
