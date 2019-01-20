@@ -2,8 +2,8 @@
 layout: single
 title:  "Trattoria Sorano"
 date: 2019-01-01
-tags: italian lunch altstadt
-excerpt: 
+tags: italian altstadt dinner
+excerpt: A new challenger enters the ring!  
 ---
 
 Let's call it "Altstadt-adjacent."  It's really close to the Altstadt.  It's got an Altstadt postal code.  Haven't tried them for lunch yet, but a walk-in table for two and a 10-top work dinner both were pleasant experiences (if a little crowded).

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Café Zuchtig"
+title:  "Café Züchtig"
 date: 2019-01-01
 tags: altstadt cafe lunch
 excerpt: Unexpected gem at the city pool!

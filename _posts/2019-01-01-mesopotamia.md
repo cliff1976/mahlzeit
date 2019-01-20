@@ -29,8 +29,6 @@ Metgebergasse 2 / Keplerstraße</br>
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.090620398521425%2C49.02078968560413%2C12.09271788597107%2C49.02204907988593&amp;layer=mapnik&amp;marker=49.021420100025104%2C12.091670000000022" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=49.02142&amp;mlon=12.09167#map=19/49.02142/12.09167">View Larger Map</a></small>
 
-## Map ##
-Erase this heading after you put a map in.
 
 ## Parking ##
 Arnulfsplatz is your best option.

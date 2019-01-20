@@ -28,5 +28,5 @@ St. Petersweg 15<br/>
 ## Parking ##
 They're in the Parkhaus Petersweg.
 
-# Etc.
+## Etc. ##
 They're part of the Lessing-Félix-Jalapeños-Paul's Boutique-Scholz conglomerate.

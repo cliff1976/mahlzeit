@@ -7,7 +7,7 @@ excerpt: If you get the right table, it's Regensburg's prettiest Biergarten.
 ---
 
 ## Cuisine ##
-Old-school fatty, meaty stuff.  Brotzeit, grill, etc.  Nominally there is a salad bar, but I've never seen anyone use it.
+Old-school Biergarten fare:  Brotzeit, grill, etc.  Nominally there is a salad bar, but I've never seen anyone use it.  The salad main dishes are huge.
 
 ## Recommendations / Highlights ##
 Schnitzel and potato salad are great.
