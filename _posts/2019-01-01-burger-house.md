@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Burger Houset"
+title:  "Burger House"
 date: 2019-01-01
-tags: burger altstadt dinner
+tags: burgers altstadt dinner
 excerpt: Feel like overdoing it?  Try the Unnecessary Burger.
 ---
 
