@@ -2,6 +2,9 @@
 layout: single
 title: About
 permalink: /about/
+sidebar:
+  nav: clickybits
+excerpt:  "So...where should we eat?"
 ---
 
 ## the Name ## 
@@ -16,7 +19,7 @@ permalink: /about/
 + our work peeps
 
 ## the Sponsors ##
-There are none.  We're not in anyone's pocket.  Peruse here for free knowing that these are honest opinions from people who just want to eat at a restaurant.  You don't have to sell your soul to Big Cookie for a recommendation on the latest *Pommesbude.*
+There are none.  We're not in anyone's pocket.  Peruse here for free knowing that these are honest opinions from people who just want to eat at a restaurant.  
 
 If we ate somewhere and think it would be good to keep in our collective back pocket for 
 
@@ -25,3 +28,6 @@ If we ate somewhere and think it would be good to keep in our collective back po
 + a four-eyes knock-some-beers-back gripe session, 
 
 it will show up here.  If it sucked, it won't.
+
+{% include purpose.md %}
+
