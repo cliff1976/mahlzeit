@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Miss Hong Sushi & Soul Food"
-date: 2019-01-14 03:00
+date: 2019-01-01
 tags: ramen sushi altstadt east-asian lunch dinner
 excerpt:
 ---
