@@ -2,7 +2,7 @@
 layout: single
 title:  "Alte Linde"
 # date: 2019-01-14 03:00
-tags: bavarian biergarten dinner
+tags: bavarian biergarten dinner stadtamhof
 excerpt: If you get the right table, it's Regensburg's prettiest Biergarten.
 ---
 
