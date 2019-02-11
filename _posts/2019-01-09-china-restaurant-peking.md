@@ -22,6 +22,7 @@ Probably a good idea.  The joint was filled up with Asian people(!) on our first
 Sternbergstraße 13<br/>
 93047 Regensburg
 
++49 941 58616796
 
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.104286253452301%2C49.0118657180479%2C12.106539309024813%2C49.01314293036493&amp;layer=mapnik&amp;marker=49.012504328302256%2C12.105412781238556" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=49.01250&amp;mlon=12.10541#map=19/49.01250/12.10541">View Larger Map</a></small>
