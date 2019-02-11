@@ -10,7 +10,7 @@ excerpt: Order from the not-so-secret black featuring Chinese-from-China dishes.
 Chinese
 
 ## Recommendations / Highlights ##
-Green beans with garlic and dried chilies were.  The won-ton soup, however was a life-changer.  Both of those items are from the black one-pager menu with pictures and Chinese characters and some interesting attempts at German describing the dishes.  We haven't been there for lunch yet, so it remains to be seen whether the black menu comes out for that meal, too.
+Green beans with garlic and dried chilies were unlike anything we ever had in a Chinese restaurant in Germany; they were very much like a dish our first night in Hong Kong...and that is a good thing.  The won-ton soup, however was a life-changer.  Both of those items are from the black one-pager menu with pictures and Chinese characters and some interesting attempts at German describing the dishes.  We haven't been there for lunch yet, so it remains to be seen whether the black menu comes out for that meal, too.
 
 ## Hours ##
 Closed Mondays.  All the rest of the days open 11:30–15:00 and 17:30–22:30.
