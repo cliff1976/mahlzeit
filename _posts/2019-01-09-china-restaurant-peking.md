@@ -2,7 +2,7 @@
 layout: single
 title:  "China Restaurant Peking"
 date: 2019-01-09
-tags: altstadt east-asian
+tags: altstadt east-asian dinner
 excerpt: Order from the not-so-secret black featuring Chinese-from-China dishes.
 ---
 
