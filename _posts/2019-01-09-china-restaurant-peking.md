@@ -11,7 +11,7 @@ excerpt: Order from the not-so-secret black featuring Chinese-from-China dishes.
 Chinese
 
 ## Recommendations / Highlights ##
-Green beans with garlic and dried chilies were.  The won-ton soup, however was a life-changer.
+Green beans with garlic and dried chilies were.  The won-ton soup, however was a life-changer.  Both of those items are from the black one-pager menu with pictures and Chinese characters and some interesting attempts at German describing the dishes.
 
 ## Hours ##
 Closed Mondays.  All the rest of the days open 11:30–15:00 and 17:30–22:30.
