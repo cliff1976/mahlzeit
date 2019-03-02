@@ -12,6 +12,18 @@ Chinese
 ## Recommendations / Highlights ##
 Green beans with garlic and dried chilies were unlike anything we ever had in a Chinese restaurant in Germany; they were very much like a dish our first night in Hong Kong...and that is a good thing.  The won-ton soup, however was a life-changer.  Both of those items are from the black one-pager menu with pictures and Chinese characters and some interesting attempts at German describing the dishes.  We haven't been there for lunch yet, so it remains to be seen whether the black menu comes out for that meal, too.
 
+![original chinese black menu](assets/peking/IMG_4794.JPG)
+
+![won ton soup](assets/peking/IMG_4795.JPG)
+
+![spicy green beans](assets/peking/IMG_4796.JPG)
+
+![stir-fried noodles](assets/peking/IMG_4797.JPG)
+
+
+
+
+
 ## Hours ##
 Closed Mondays.  All the rest of the days open 11:30–15:00 and 17:30–22:30.
 
