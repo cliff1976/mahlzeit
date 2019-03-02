@@ -18,6 +18,8 @@ Green beans with garlic and dried chilies were unlike anything we ever had in a 
 
 ![spicy green beans](/assets/img/peking/IMG_4796.JPG)
 
+They also have a boring old this-is-for-Germans menu, and the stir-fried noodles were perfectly fine.  Nothing to write home about.  Ho hum.
+
 ![stir-fried noodles](/assets/img/peking/IMG_4797.JPG)
 
 
