@@ -2,8 +2,7 @@
 layout: single
 title:  "This is the template for a post"
 date: 2019-01-01
-categories: cafe
-tags: roast altstadt
+tags: altstadt
 excerpt: 
 ---
 
@@ -26,3 +25,6 @@ Address goes here
 Erase this heading after you put a map in.
 
 ## Parking ##
+
+
+
