@@ -7,6 +7,9 @@ excerpt: Good cakes, tarts and tortes, but you'll probably need another coffee s
 ---
 Good cakes, tarts and tortes, but you'll probably need another coffee somewhere else afterwards.  Also, it sure seems like an Ü-65 club in there.  Which might explain why the coffee is so weak.
 
+Dogs are welcome.
+![](/assets/img/goldenes-kreuz/trixi_goldenes_kreuz.jpg)
+
 
 ## Cuisine ##
 Kaffee, Kuchen, light breakfasty stuff.
