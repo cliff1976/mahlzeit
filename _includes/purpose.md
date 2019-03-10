@@ -3,4 +3,4 @@
 
 <p>It's also at least partially for me.  I plan on working from home more than ever before in 2019 and beyond, but maybe that doesn't mean I have to give up lunchtime social interactions completely.  Making this list has shown me there are more options nearby than I thought.</p>
 
-<p>We're trying to keep it lean here.  It's all just text on purpose.</p>
+<p>We're trying to keep it lean here.  It's mostly just text on purpose.</p>
