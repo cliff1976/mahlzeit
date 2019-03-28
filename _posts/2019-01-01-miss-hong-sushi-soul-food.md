@@ -15,6 +15,7 @@ Asian, sushi-type stuff.
 The ramen is particularly good, but the vegetarian ramen options are kind of limited.  Hope you like pork.
 
 ## Hours ##
+Closed Mondays.</br>
 Tues.-Sat:  11:30-14:30, 17:00-22:30<br/>
 Sun:  12:00-14:30, 17:00-22:00
 
