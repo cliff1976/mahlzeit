@@ -2,7 +2,7 @@
 layout: single
 title:  "Paradiso da Carlo"
 # date: 2019-01-14 03:00
-tags: italian altstadt pizza
+tags: italian altstadt pizza lunch dinner
 excerpt: Good choice for gluten-free pizza (with a little advance notice).
 ---
 
@@ -12,7 +12,7 @@ Italian
 ## Recommendations / Highlights ##
 If you call one day ahead, they'll do a gluten-free corn-based pizza crust for you.  In 2007 or so, the original Paradiso da Carlo restaurant in Tegernheim won an award for the best pizza in Germany.  They're serious.
 
-Best pizza on offer in our humble opinion:  *salsicca e funghi*
+Best pizza on offer in our humble opinion:  *salsicca e funghi* which as of May 2019 is sadly no longer on offer.  You might be able to get them to make it for you if they have the sausage on hand for another dish.  But it's no longer a standard menu item.
 
 Their calzones are pretty good, too (try *la strana*).
 
@@ -23,7 +23,7 @@ Closed Mondays.<br/>
 Otherwise 11-14:30 and 17:00-23:00 every day.
 
 ## Reservations? ##
-Yep, they take 'em.
+Yep, they take 'em.  They reserved a bench and set of long tables for our party of 8.
 
 ## Address ##
 Arnulfsplatz 6<br/>
@@ -35,3 +35,6 @@ Arnulfsplatz 6<br/>
 
 ## Parking ##
 Arnulfsplatz, Bismarkplatz/Theater
+
+## What We Ate ##
+![a pizza with rucola, parmesan cheese ribbons, buffalo mozzarello, and prosciutto](/assets/img/paradiso/paradiso_da_carlo_pizza.jpg)

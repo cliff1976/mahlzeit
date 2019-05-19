@@ -2,7 +2,7 @@
 layout: single
 title:  Mesopotamia
 date: 2019-01-01
-tags: dinner altstadt turkish
+tags: dinner altstadt turkish kurdish
 excerpt: It's our favorite of the two Kurdish joints in town.
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title:  "Trattoria Sorano"
 date: 2019-01-01
-tags: italian altstadt dinner
+tags: italian altstadt dinner pizza
 excerpt: A new challenger enters the ring!  
 ---
 
