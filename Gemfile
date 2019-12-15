@@ -32,3 +32,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # minimal-mistakes recommends jekyll-archives
 gem "jekyll-archives"
 
+# 20191215 trying to get jemoji recognized to build on netlify
+gem "jemoji"
