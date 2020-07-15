@@ -19,7 +19,7 @@ The vegetarian stuff was uniformly great:
 + grilled peperoni (spicier than we expected, and pleasantly so)
 
 ## Hours ##
-Dinners only, until 22:30
+Dinners only, 17:00 to 22:30, Tuesday through Saturday 
 
 ## Reservations? ##
 You'll want them for any party bigger than two.  Maybe even also for just two.
