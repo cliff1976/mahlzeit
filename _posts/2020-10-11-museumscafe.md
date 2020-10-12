@@ -27,7 +27,8 @@ You should reserve a table in person or via telephone.  If you need a group rese
 Im historischen Museum  
 Dachauplatz 2-4, 93047 Regensburg  
 93047 Regensburg  
-+49 941 56 76 276
++49 941 56 76 276  
+info@cafe-im-museum.de
  
 [https://www.cafe-im-museum.de/](https://www.cafe-im-museum.de/)
 
